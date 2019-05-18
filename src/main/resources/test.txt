@@ -1,0 +1,8 @@
+hello world hell spark
+spark core
+spark sql
+spark streaming
+storm storm hehe haha heihei
+hadoop hadoop haixingba
+haixing ha hello hive
+zookeeper
